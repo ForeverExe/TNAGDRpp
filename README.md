@@ -1,2 +1,2 @@
 # TNAGDRpp
-CPP version of Totally Not A GDR, made for fun, and understand cpp
+Text based GDR with equipment and turn-based combat mechanic, made for fun and to understand cpp
